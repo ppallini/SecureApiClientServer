@@ -1,0 +1,15 @@
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\bin\Release\net7.0\SecureAPI.Interfaces.deps.json
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\bin\Release\net7.0\SecureAPI.Interfaces.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\bin\Release\net7.0\SecureAPI.Interfaces.pdb
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\bin\Release\net7.0\SecureAPI.Shared.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\bin\Release\net7.0\SecureAPI.Shared.pdb
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.csproj.AssemblyReference.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.AssemblyInfoInputs.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.AssemblyInfo.cs
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.csproj.CoreCompileInputs.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.csproj.CopyComplete
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\refint\SecureAPI.Interfaces.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\SecureAPI.Interfaces.pdb
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Interfaces\obj\Release\net7.0\ref\SecureAPI.Interfaces.dll

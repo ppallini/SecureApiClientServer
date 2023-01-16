@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SecureAPI.Interfaces/1.0.0": {
+        "dependencies": {
+          "SecureAPI.Shared": "1.0.0"
+        },
+        "runtime": {
+          "SecureAPI.Interfaces.dll": {}
+        }
+      },
+      "SecureAPI.Shared/1.0.0": {
+        "runtime": {
+          "SecureAPI.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecureAPI.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SecureAPI.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

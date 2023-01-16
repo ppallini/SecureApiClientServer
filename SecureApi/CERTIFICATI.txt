@@ -1,0 +1,28 @@
+﻿https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2015/2960358
+https://learn.microsoft.com/en-us/dotnet/core/additional-tools/self-signed-certificates-guide
+https://learn.microsoft.com/en-us/azure/application-gateway/self-signed-certificates
+
+IMPORTANTE:
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-7.0.2-windows-hosting-bundle-installer
+https://learn.microsoft.com/it-it/aspnet/core/host-and-deploy/aspnet-core-module?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0
+
+PER INTERCETTARE GLI ERRORI ABILITA in IIS stdout DENTRO web.config (ad ogni commit)
+
+verifica che sia installato .net framework 4.8
+verifica che sia installato .net core 7.0 runtime
+verifica che sia abilitato TLS su porta 443
+
+IL CERTIFICATO GENERATO CON LO STESSO NOME DEL SERVER RISULTA SICURO SU BROWSER
+IL CERTIFICATO GENERATO CON NOME DIVERSO DAL SERVER RISULTA INSICURO SU BROWSER
+
+GENERAZIONE CERTIFICATO
+
+$cert = New-SelfSignedCertificate -DnsName @("LEOSERVER", "LEOSERVER") -CertStoreLocation "cert:\LocalMachine\My"
+$certKeyPath = "C:\PROGETTI\GitHub\SecureWeb\SecureAPI\cert\LEOSERVER.pfx"
+$password = ConvertTo-SecureString 'lavolpe' -AsPlainText -Force
+$cert | Export-PfxCertificate -FilePath $certKeyPath -Password $password
+$rootCert = $(Import-PfxCertificate -FilePath $certKeyPath -CertStoreLocation 'Cert:\LocalMachine\Root' -Password $password)
+
+
+CERTMGR DEVONO ESSERE REGISTRATI SOTTO Autorità Di Certificazione Radice Attendibili (e non sotto Personale)
++1 when importing a certificate via the import tool on the cert and not through the snap in, it is only for your user account. Using the snap in allows you to choose who the import is for, user account, service account or everyone. Thanks for your pointer. I was scratching my head for a minute or two there! 
