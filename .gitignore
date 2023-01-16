@@ -6,3 +6,7 @@
 /Backup
 /.vs
 /FrontEndFormAuth
+/SecureAPI.Shared/bin
+/SecureAPI.Shared/obj
+/SecureAPIClient/bin
+/SecureAPIClient/obj
