@@ -1,0 +1,12 @@
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\bin\Debug\net7.0\SecureAPI.Shared.deps.json
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\bin\Debug\net7.0\SecureAPI.Shared.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\bin\Debug\net7.0\SecureAPI.Shared.pdb
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.csproj.AssemblyReference.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.AssemblyInfoInputs.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.AssemblyInfo.cs
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.csproj.CoreCompileInputs.cache
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\refint\SecureAPI.Shared.dll
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\SecureAPI.Shared.pdb
+C:\PROGETTI\GitHub\SecureWeb\SecureAPI.Shared\obj\Debug\net7.0\ref\SecureAPI.Shared.dll

@@ -1,0 +1,127 @@
+2023-01-15 21:06:10.853 +01:00 [INF] Starting web client
+2023-01-15 21:06:12.007 +01:00 [ERR] Not Found
+Method: POST, RequestUri: 'https://localhost:44300//api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:11:26.974 +01:00 [INF] Starting web client
+2023-01-15 21:11:28.054 +01:00 [ERR] Not Found
+Method: POST, RequestUri: 'https://localhost:44300//api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:37:59.770 +01:00 [INF] Starting web client
+2023-01-15 21:38:00.938 +01:00 [ERR] Not Found
+Method: POST, RequestUri: 'https://localhost:44300//api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:41:28.194 +01:00 [INF] Starting web client
+2023-01-15 21:42:45.049 +01:00 [INF] Starting web client
+2023-01-15 21:43:47.814 +01:00 [INF] Starting web client
+2023-01-15 21:44:38.803 +01:00 [INF] Starting web client
+2023-01-15 21:45:28.861 +01:00 [INF] Starting web client
+2023-01-15 21:45:29.948 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:46:37.086 +01:00 [INF] Starting web client
+2023-01-15 21:46:48.493 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:53:43.009 +01:00 [INF] Starting web client
+2023-01-15 21:53:44.835 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:54:10.536 +01:00 [INF] Starting web client
+2023-01-15 21:54:45.259 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 21:55:07.938 +01:00 [INF] Starting web client
+2023-01-15 22:02:16.182 +01:00 [INF] Starting web client
+2023-01-15 22:02:41.177 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:03:38.873 +01:00 [INF] Starting web client
+2023-01-15 22:03:45.892 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:06:56.630 +01:00 [INF] Starting web client
+2023-01-15 22:06:57.820 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:09:33.859 +01:00 [INF] Starting web client
+2023-01-15 22:09:34.932 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:10:55.014 +01:00 [INF] Starting web client
+2023-01-15 22:10:55.899 +01:00 [ERR] Unauthorized
+Method: POST, RequestUri: 'https://localhost:44300/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:13:35.265 +01:00 [INF] Starting web client
+2023-01-15 22:17:09.179 +01:00 [INF] Starting web client
+2023-01-15 22:17:10.292 +01:00 [ERR] Forbidden
+Method: POST, RequestUri: 'https://leoserver:9444/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:18:01.435 +01:00 [INF] Starting web client
+2023-01-15 22:18:02.943 +01:00 [ERR] Forbidden
+Method: POST, RequestUri: 'https://leoserver:9444/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:21:07.762 +01:00 [INF] Starting web client
+2023-01-15 22:32:56.101 +01:00 [INF] Starting web client
+2023-01-15 22:33:04.440 +01:00 [ERR] Forbidden
+Method: POST, RequestUri: 'https://leoserver:9444/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:35:01.382 +01:00 [INF] Starting web client
+2023-01-15 22:35:03.348 +01:00 [ERR] Forbidden
+Method: POST, RequestUri: 'https://leoserver:9444/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:41:10.231 +01:00 [INF] Starting web client
+2023-01-15 22:41:11.141 +01:00 [ERR] Forbidden
+Method: POST, RequestUri: 'https://leoserver:9444/api/authentication/login', Version: 1.1, Content: System.Net.Http.ObjectContent`1[SecureAPI.Shared.DTO.UserForAuthenticationDTO], Headers:
+{
+  Transfer-Encoding: chunked
+  Content-Type: application/json; charset=utf-8
+}
+2023-01-15 22:42:23.181 +01:00 [INF] Starting web client

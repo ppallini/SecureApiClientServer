@@ -1,12 +1,8 @@
 /.gitignore.old
-/FrontEndFormAuth/FrontEndFormAuth.csproj
+/FrontEndFormAuth
+/bin
+/obj
 /.git.old
 /log
-/SecureAPITest.sln
 /Backup
 /.vs
-/FrontEndFormAuth
-/SecureAPI.Shared/bin
-/SecureAPI.Shared/obj
-/SecureAPIClient/bin
-/SecureAPIClient/obj
