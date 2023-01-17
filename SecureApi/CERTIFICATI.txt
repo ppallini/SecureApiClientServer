@@ -26,3 +26,7 @@ $rootCert = $(Import-PfxCertificate -FilePath $certKeyPath -CertStoreLocation 'C
 
 CERTMGR DEVONO ESSERE REGISTRATI SOTTO Autorità Di Certificazione Radice Attendibili (e non sotto Personale)
 +1 when importing a certificate via the import tool on the cert and not through the snap in, it is only for your user account. Using the snap in allows you to choose who the import is for, user account, service account or everyone. Thanks for your pointer. I was scratching my head for a minute or two there! 
+
+
+GITHUB ACCES TOKEN
+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
