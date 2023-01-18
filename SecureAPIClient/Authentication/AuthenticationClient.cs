@@ -38,8 +38,8 @@ namespace SecureAPIClient
         /// <summary>
         /// API URL.
         /// </summary>
-        public static string ApiUrl { get; } = "https://LEOSERVER:9444/api/";
-        //public static string ApiUrl { get; } = "https://localhost:44300/api/";
+        //public static string ApiUrl { get; } = "https://LEOSERVER:9444/api/";
+        public static string ApiUrl { get; } = "https://localhost:44300/api/";
 
         private static int bin = AppDomain.CurrentDomain.BaseDirectory.IndexOf("\\bin");
         private static string LocalPath = bin > 0 ? AppDomain.CurrentDomain.BaseDirectory.Substring(0, bin) : AppDomain.CurrentDomain.BaseDirectory;        
